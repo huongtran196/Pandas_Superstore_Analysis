@@ -1,5 +1,5 @@
 # Exploratory Data Analysis with Pandas Python
--
+
 In this project, I use Python Pandas and Python Matplotlib to analyze and answer business questions regarding 3 years sales data of Superstore. The data consists  thousands of store purchases broken down by month, product type, cost, purchase address, to name but a few. 
 
 Dataset: https://github.com/EDSOfficial/Sales-Analysis
