@@ -11,3 +11,12 @@ Dataset: https://github.com/EDSOfficial/Sales-Analysis
 * Q3: What are the most selling Products?
 * Q4: What is the most preferred Ship Mode?
 * Q5: Which are the most profitable Product Category and Sub-Category?
+
+## Methods used in this project:
+
+To answer these questions I walk through many different pandas & matplotlib and seaborn library methods including:
+
+- Adding columns
+- Parsing cells as strings to make new columns (.str)
+- Using groupby to perform aggregate analysis
+- Plotting bar charts and lines graphs to visualize our results
